@@ -1,5 +1,8 @@
 AI Mock Interview Platform
 
+MY PROJECT LINK
+  https://replit.com/@naveenkumar2008/Interview-Prep-AI 
+
 Overview
 The AI Mock Interview Platform is a web application designed to help users prepare for job interviews. It generates questions based on the uploaded resume and job description, evaluates answers, and provides personalized feedback.
 
@@ -23,3 +26,6 @@ Future Scope
 - Industry-specific question sets
 - Analytics & progress tracking
 - Integration with LinkedIn/job portals
+
+  MY PROJECT LINK
+  https://replit.com/@naveenkumar2008/Interview-Prep-AI 
